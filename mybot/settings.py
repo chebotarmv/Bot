@@ -25,7 +25,7 @@ SECRET_KEY = '2yg%%*$h%*rd)*m0niq$hw3mv9se6yl)=-(7n$5n+4_3c4eg4+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'chebam.pythonanywhere.com']
 
 
 # Application definition
